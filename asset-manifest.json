@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vault-frontend/static/css/main.4cdd9367.css",
-    "main.js": "/vault-frontend/static/js/main.115fd3d8.js",
+    "main.js": "/vault-frontend/static/js/main.716f5adb.js",
     "static/js/453.825b0082.chunk.js": "/vault-frontend/static/js/453.825b0082.chunk.js",
     "index.html": "/vault-frontend/index.html",
     "main.4cdd9367.css.map": "/vault-frontend/static/css/main.4cdd9367.css.map",
-    "main.115fd3d8.js.map": "/vault-frontend/static/js/main.115fd3d8.js.map",
+    "main.716f5adb.js.map": "/vault-frontend/static/js/main.716f5adb.js.map",
     "453.825b0082.chunk.js.map": "/vault-frontend/static/js/453.825b0082.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cdd9367.css",
-    "static/js/main.115fd3d8.js"
+    "static/js/main.716f5adb.js"
   ]
 }
