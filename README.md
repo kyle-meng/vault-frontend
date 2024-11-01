@@ -1,6 +1,6 @@
 # TokenVault Frontend
 
-This project, combined with the tokenvault contract address, allows you to implement the access function of eth and specific erc20 tokens on the Sepolia chain. It should be noted that the generated key can be viewed by anyone, and you can deposit and overwrite it after obtaining the key.
+This project, combined with the tokenvault contract address, allows you to implement the access function of eth and specific erc20 tokens on the Sepolia chain. It should be noted that the generated key can be viewed by anyone, and you can deposit again to overwrite it after obtaining the key.
 
 Remove the previous key to achieve a safer deposit.
 
