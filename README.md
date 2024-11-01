@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# TokenVault Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project, combined with the tokenvault contract address, allows you to implement the access function of eth and specific erc20 tokens on the Sepolia chain. It should be noted that the generated key can be viewed by anyone, and you can deposit and overwrite it after obtaining the key.
 
-## Available Scripts 0xf8eb3b321c9de1626af7f3fbf84c4fc0e8c5a452560c22482ae5b41e177070db
+Remove the previous key to achieve a safer deposit.
+
+To withdraw, you only need to use the key. As long as you have the key, anyone can withdraw the token.
+try it https://kyle-meng.github.io/vault-frontend/
+![image](https://github.com/user-attachments/assets/6c5032f2-6b15-47bf-bbca-06b2a4753ca9)
+
+## Available Scripts 
 
 In the project directory, you can run:
 
@@ -39,32 +45,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
